@@ -16,7 +16,7 @@ h2{
 hr{
  margin: 10px -50px;
  border: 0;
- border-top: 1px solid white;
+ border-top: 1px solid black;
  margin-bottom: 40px;
 }
  
@@ -31,7 +31,7 @@ div.main{
 	margin-left: 270px;/*--------------------------------------------------------------------*/
  width: 300px;
  padding: 10px 50px 25px;
- border: 1px solid white;
+ border: 1px solid black;
  border-radius: 10px;
  font-family: raleway;
  float:left;
