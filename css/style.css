@@ -44,7 +44,7 @@ input[type=text],input[type=password]{
  padding: 5px;
  margin-bottom: 25px;
  margin-top: 5px;
- border: 2px solid white;
+ border: 2px solid black;
  color: #4f4f4f;
  font-size: 16px;
  border-radius: 5px;
@@ -61,7 +61,7 @@ center{
 }
 
 .note{
- color:red;
+ color:indigo;
 }
  
 .back{
